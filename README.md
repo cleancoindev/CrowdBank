@@ -61,7 +61,7 @@ License
 [MIT License](https://anshul.mit-license.org/)
 
 The following people have been the contributors for the project. (Go star their repos :p)
- * [Scribe] (https://gitbub.com/cleancoindev
+ * [Scribe] (https://gitbub.com/cleancoindev)
  * [Anshul Shah](https://github.com/anshulshah96) 
  * [Nikhil Sheoran](https://github.com/nikhil96sher)
  * [Suraj Gupta](https://github.com/surajgupta97)
