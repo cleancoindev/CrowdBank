@@ -48,7 +48,7 @@ Borrower scrutinises the proposals and **Accepts** appropriate ones to achieve t
 
 Setup
 ========
-1. Install [testrpc]() and [Truffle Framework]().
+1. Install [ganache-cli]() and [Truffle Framework]().
 2. Run ```git clone https://github.com/cleancoindev/CarbonCrowdBank.git```
 3. Run ```npm install``` inside the directory.
 4. Run ```ganache-cli``` in a new terminal.
@@ -61,7 +61,7 @@ License
 [MIT License](https://anshul.mit-license.org/)
 
 The following people have been the contributors for the project. (Go star their repos :p)
- * [Scribe (https://gitbub.com/cleancoindev
+ * [Scribe] (https://gitbub.com/cleancoindev
  * [Anshul Shah](https://github.com/anshulshah96) 
  * [Nikhil Sheoran](https://github.com/nikhil96sher)
  * [Suraj Gupta](https://github.com/surajgupta97)
