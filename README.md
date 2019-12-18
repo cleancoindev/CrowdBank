@@ -51,7 +51,7 @@ Setup
 1. Install [testrpc]() and [Truffle Framework]().
 2. Run ```git clone https://github.com/cleancoindev/CarbonCrowdBank.git```
 3. Run ```npm install``` inside the directory.
-4. Run _testrpc_ in a new terminal.
+4. Run ganache-cli in a new terminal.
 5. Run ```truffle deploy``` to build and deploy contract.
 6. Run ```npm run dev``` and go to [locahost:8080](http://localhost:8080).
 
@@ -61,6 +61,7 @@ License
 [MIT License](https://anshul.mit-license.org/)
 
 The following people have been the contributors for the project. (Go star their repos :p)
+ * [Scribe (https://gitbub.com/cleancoindev
  * [Anshul Shah](https://github.com/anshulshah96) 
  * [Nikhil Sheoran](https://github.com/nikhil96sher)
  * [Suraj Gupta](https://github.com/surajgupta97)
